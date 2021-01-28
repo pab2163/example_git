@@ -1,2 +1,3 @@
 # example_git
-demo github repository for jtc
+
+This readme is really on point now!
